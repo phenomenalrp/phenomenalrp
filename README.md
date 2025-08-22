@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @phenomenalrp
-- 👀 I’m interested in cybersecurity & ethical hacking 
-- 🌱 I’m currently learning a cybersecurity certification program on coursera by google
+- 👋 Hi, I’m Rishabh Patel
+- 👀 I’m interested in cybersecurity & ethical hacking, along with that I'm doing DSA and projects in Python.
 - 💞️ I’m looking to collaborate on basic cybersecurity knowledge so I enhance my skills on it
 - 📫 How to reach me: just you find my post as it simple
 - 😄 Pronouns: Rishabh Patel 
