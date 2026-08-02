@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Rishabh Patel
-- 👀 I’m interested in cybersecurity & ethical hacking, along with that I'm doing DSA and projects in Python.
-- 💞️ I’m looking to collaborate on basic cybersecurity knowledge so I enhance my skills on it
-- 📫 How to reach me: just you find my post as it simple
-- 😄 Pronouns: Rishabh Patel 
-- ⚡ Fun fact: I'm a beginner in github and I want to explore it more & more
+Passionate Cybersecurity Fresher preparing for a Tier 1 (L1) SOC Analyst role.
+​My primary focus is on Security Monitoring, Log Analysis, and Alert Triage. To build real-world problem-solving skills, I spend my time working through hands-on practical labs across TryHackMe and LabEx, analyzing simulated network traffic and investigating potential threats.
+​I am eager to kickstart my career in a Security Operations Center (SOC) where I can help defend organizational infrastructure, learn from seasoned security professionals, and contribute from day one.
+​Feel free to connect with me here on GitHub or reach out at rishabhpatel3977@gmail.com.
+
+
 
 <!---
 phenomenalrp/phenomenalrp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
